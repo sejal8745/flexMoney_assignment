@@ -1,26 +1,29 @@
 # yoga
 
-- Hello, I have created this beautiful project using the MERN stack as an internship assignment of Flexmoney. In this web app an user can register themselves for the yoga classes. I enjoyed while creating this project as I learned many new things while creating this project such as form validation, connecting the frontend to the backend and deploying the web app online.
+- Hello, I successfully completed my internship assignment at Flexmoney by developing a captivating project using the MERN stack. The project focuses on facilitating user registration for yoga classes through a well-designed admission form. Throughout the process, I gained valuable insights into various aspects, such as form validation, frontend-backend integration, and deploying web applications online.
 
-- My approach for this project was:-
-1. Create frontend of the admission form using html, css and reactjs.
-2. Make the form responsive so that it does not get distorted in any device.
-3. Create the backend of the form using nodejs, expressjs and mongoDB.
-4. Do the basic validations as stated in the assignment.
-5. Show a "Payment Successful" message when the user is registered.
+- Here's a breakdown of my approach:
+- **1. Frontend Development:**
+- Created an aesthetically pleasing admission form using HTML, CSS, and ReactJS.
+- Ensured the form's responsiveness across different devices to maintain a seamless user experience.
+- 
+- **2. Backend Development:**
+- Implemented the backend functionality using Node.js, Express.js, and MongoDB.
+- Incorporated basic validations in alignment with the assignment requirements.
 
-- The basic validations which I did in the project are as follows:-
-1. Every input field should be filled by the user.
-2. User name must not be empty.
-3. Age field must be between 18 and 65 years.
-4. Gender should must be specified by the user.
-5. Contact number must consist of 10 digits.
-6. Fees should be exactly equal to 500.
-7. User must select a slot in order to make the payment.
+- **3. User Registration Flow:**
+- Conducted essential validations to guarantee completeness and accuracy of user-provided information.
+- Validated that the user's name is not empty.
+- Set age constraints between 18 and 65 years.
+- Ensured the user specified their gender.
+- Validated the contact number to consist of 10 digits.
+- Specified the fee amount to be exactly 500.
+- Required users to select a slot before proceeding to payment.
 
-- This project can be used in the real world if I add a payment method which would accpet the payment either from the UPI or cards.
+- **4. Enhancements for Real-World Usage:**
+- Implemented a "Payment Successful" message upon successful registration.
+- Envisioned the potential for real-world application by suggesting the addition of a payment method, accommodating UPI or card payments.
 
-- You can add the JSON Viewer pro extension to get a better view of the data.
-Link to the extension:- https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
+- Overall, the project stands as a testament to my proficiency in full-stack development, showcasing skills in both frontend and backend technologies. The inclusion of a payment method would further enhance its practical utility in real-world scenarios.
 
 ![yoga](https://user-images.githubusercontent.com/100675296/217868781-70cc6c45-1ae0-4da3-80c1-aab493955cca.png)
