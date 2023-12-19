@@ -25,5 +25,3 @@
 - Envisioned the potential for real-world application by suggesting the addition of a payment method, accommodating UPI or card payments.
 
 - Overall, the project stands as a testament to my proficiency in full-stack development, showcasing skills in both frontend and backend technologies. The inclusion of a payment method would further enhance its practical utility in real-world scenarios.
-
-![yoga](https://user-images.githubusercontent.com/100675296/217868781-70cc6c45-1ae0-4da3-80c1-aab493955cca.png)
